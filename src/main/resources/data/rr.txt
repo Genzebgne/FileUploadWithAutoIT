@@ -1,0 +1,37 @@
+Property xpath
+
+1.  //input[@ng-model='property.streetAddress']
+2  //input[@id='streetaddress']
+3  //input[@class='form-control ng-pristine ng-valid']
+4  //input[@title='street']
+5  //input[@placeholder='Street Address']
+6 //input[@@type='text']
+
+7 //input[@id='streetaddress']/
+
+8 //div[@class='class=col-lg-6 col-md-6 col-sm-6 col-xs-7]
+9 //div[@id='streetaddress']
+
+
+10 //div[@class='form-control ng-pristine ng-valid']
+
+   //input[@id='casenum']
+
+/div/slecr
+
+//div/@class='form-group']/[@title='loantype']
+
+//div[@class='col-lg-6 col-md-6 col-sm-8 col-xs-7']
+
+//dive[@id='casenum']
+
+//div[@label=Prior Case Numb...]
+
+
+.//input[@class='ng-valid ng-dirty']
+//input[@title='yes']/[@label='yes']/label
+
+.//input[@type='radio']
+
+.//input[@ng-model='lender.sponsore']
+
